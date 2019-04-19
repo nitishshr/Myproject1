@@ -1,0 +1,100 @@
+.navbar {
+    border:1px solid black;
+    background-color: darkblue;
+    height:120px;
+    width:100;
+}
+ul{
+  list-style: none;
+}
+.navbarli{
+  position:relative;
+  display:flex;
+  left:200px;
+  height:60px;
+  margin-top:20px;
+  height:21px;
+}
+.navbarul{
+  display:flex;
+}
+.distance{
+  margin-left:100px;
+  color:white;
+  height:20px;
+  cursor:pointer;
+}
+
+.push{
+  margin-top:20px;
+  margin-left: auto;
+  margin-right: 30px;
+  color:white;
+  height:20px;
+  cursor:pointer; 
+}
+.distance:hover{
+  background-color: orange;
+}
+.push:hover{
+  background-color: orange;
+}
+#search{
+  position:relative;
+  margin-top:10px;
+  width:50%;
+  height:30px;
+  left:300px;
+}
+.flexsearchtop{
+  display:flex;
+}
+h3{
+  color:white;
+}
+
+#mainmenu{
+  position:relative;
+  left:150px;
+  width:80px;
+  margin-top:-5px;
+  font-family: Times New Roman, Times, serif;
+  font-size:1.2em;
+  color:white;
+  height:47px;
+  cursor:pointer;
+}
+#mainmenu:hover{
+  background-color: orange;
+}
+.search:hover{
+ opacity:0.2;
+ cursor:pointer;
+
+}
+.search{
+  position:relative;
+  margin-top: 10px;
+  border:2px solid black;
+  height:37px;
+  width:34px;
+  left:265px;
+}
+#searchimg{
+  width:30px;
+  height:30px;
+  margin-left:-6px;
+  margin-top:2px;
+}
+#hovereffect{
+  position:relative;
+  left:299px;
+  background-color:green;
+  width:34px;
+  height:35px;
+  margin-top:10px;
+}
+#brand{
+  margin-top:-30px;
+  margin-left:-10px;
+}
